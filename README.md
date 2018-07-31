@@ -4,4 +4,5 @@
 
 Expanation per file 
 - conformance visy POC didnt progress further 
-- 
+- total_cleared another visy POC
+- test ODBC legacy lambda test from previous used connector 
